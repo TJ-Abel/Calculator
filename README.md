@@ -1,5 +1,7 @@
 # SAED Calculator
 
+🔗 **[Live Demo](https://tj-abel.github.io/Calculator/)**
+
 A clean, minimal calculator web app with a dark aesthetic and smooth button glow effects. Built with vanilla HTML, CSS, and JavaScript — no dependencies, no frameworks.
 
 ## Features
@@ -25,7 +27,7 @@ A clean, minimal calculator web app with a dark aesthetic and smooth button glow
 ## File Structure
 
 ```
-saed-calculator/
+calculator/
 ├── index.html   # App structure and button layout
 ├── style.css    # Dark theme styling and glow effects
 └── script.js    # Calculator logic and keyboard handling
